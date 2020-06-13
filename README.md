@@ -7,9 +7,10 @@ Files
 2-  Segmenting and Clustering Neighborhoods in Toronto.IPNYB (Python based coding)
  implemeting the following 
  
-   Install geocoder
-   
-   Install BeautifulSoup4
+  Installation 
+    1 -Install geocoder.
+    2-Install BeautifulSoup4.
+    
    
    Scraping and creting data frame 
    
@@ -28,8 +29,9 @@ Files
   
   Get the latitude and the longitude coordinates of each neighborhood and update the data frame to add two new columns for latitude and the longitude coordinates of each neighborhood
   
-  a-Importing the csv file conatining the latitudes and longitudes for various neighbourhoods in Canada
-  b-Merging the two tables for getting the Latitudes and Longitudes for various neighbourhoods in Canada
+  a-Importing the csv file conatining the latitudes and longitudes for various neighbourhoods in Canada.
+  
+  b-Merging the two tables for getting the Latitudes and Longitudes for various neighbourhoods in Canada.
   
   Explore and cluster the neighborhoods in Toronto. You can decide to work with only boroughs that contain the word Toronto and then replicate the same analysis we did to the New York City data
   
