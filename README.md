@@ -1,8 +1,11 @@
-# W1-Capstone-Project-Notebook
-Week 1 Capstone Project Notebook - Bilal Alsoudi
+Capstone-Project-Notebook
+
+Capstone Project Notebook - Bilal Alsoudi
 
 Files 
 1 - Segmenting and Clustering Neighborhoods in Toronto-Map ..displayong the map to show the Neighborhoods (Toronto based)
+
+    ---> This is to illustrate the MAP of toronto naigborhoods since GITHUB will not be able to render it. 
 
 2-  Segmenting and Clustering Neighborhoods in Toronto.IPNYB (Python based coding)
  implemeting the following 
