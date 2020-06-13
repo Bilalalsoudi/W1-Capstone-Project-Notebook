@@ -34,4 +34,4 @@ Files
     a-Map Toronoto based naigborhood (Visualize)
   
   
-  
+  https://github.com/Bilalalsoudi/W1-Capstone-Project-Notebook/blob/master/Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto-Map.JPG
