@@ -1,7 +1,5 @@
 Capstone-Project-Notebook
 
-Capstone Project Notebook - Bilal Alsoudi
-
 Files 
 1 - Segmenting and Clustering Neighborhoods in Toronto-Map ..displayong the map to show the Neighborhoods (Toronto based)
 
